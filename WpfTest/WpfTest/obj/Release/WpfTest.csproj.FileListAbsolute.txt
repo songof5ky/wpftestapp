@@ -1,0 +1,17 @@
+D:\работа\WpfTest\WpfTest\bin\Release\WpfTest.exe.config
+D:\работа\WpfTest\WpfTest\bin\Release\WpfTest.exe
+D:\работа\WpfTest\WpfTest\bin\Release\WpfTest.pdb
+D:\работа\WpfTest\WpfTest\obj\Release\MainWindow.g.cs
+D:\работа\WpfTest\WpfTest\obj\Release\App.g.cs
+D:\работа\WpfTest\WpfTest\obj\Release\WpfTest_MarkupCompile.cache
+D:\работа\WpfTest\WpfTest\obj\Release\WpfTest_MarkupCompile.lref
+D:\работа\WpfTest\WpfTest\obj\Release\MainWindow.baml
+D:\работа\WpfTest\WpfTest\obj\Release\WpfTest.g.resources
+D:\работа\WpfTest\WpfTest\obj\Release\WpfTest.Properties.Resources.resources
+D:\работа\WpfTest\WpfTest\obj\Release\WpfTest.csproj.GenerateResource.Cache
+D:\работа\WpfTest\WpfTest\obj\Release\WpfTest.csproj.CoreCompileInputs.cache
+D:\работа\WpfTest\WpfTest\obj\Release\WpfTest.exe
+D:\работа\WpfTest\WpfTest\obj\Release\WpfTest.pdb
+D:\работа\WpfTest\WpfTest\bin\Release\Newtonsoft.Json.dll
+D:\работа\WpfTest\WpfTest\bin\Release\Newtonsoft.Json.xml
+D:\работа\WpfTest\WpfTest\obj\Release\WpfTest.csprojResolveAssemblyReference.cache

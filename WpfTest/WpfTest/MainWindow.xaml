@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="Get_data" Content="Получить данные" HorizontalAlignment="Left" Margin="199,226,0,0" VerticalAlignment="Top" Width="120" Click="Get_data_Click"/>
+        <TextBox x:Name="temp_item" HorizontalAlignment="Left" Height="26" Margin="199,72,0,0" TextWrapping="Wrap" Text="ETHBTC" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="open" Content="Открыть таблицу" HorizontalAlignment="Left" Margin="199,266,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.518,-0.24" Click="Button_Click"/>
+    </Grid>
+</Window>
